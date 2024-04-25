@@ -13,6 +13,6 @@ public interface AsyncTaskProcessingRetryResult extends AsyncTaskProcessingResul
      *
      * @return next attempt time
      */
-    ZonedDateTime nextAttemptAt();
+    ZonedDateTime getNextAttemptAt();
 
 }
