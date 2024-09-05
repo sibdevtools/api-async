@@ -4,6 +4,8 @@ import com.github.simple_mocks.async.api.rq.CreateAsyncTaskRq;
 import jakarta.annotation.Nonnull;
 
 /**
+ * Async task service interface.
+ *
  * @author sibmaks
  * @since 0.0.1
  */

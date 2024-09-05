@@ -1,4 +1,4 @@
-# Simple Mock - Async Tasks API
+# Simple Mock - Async Tasks Service API
 
 ## To build
 
