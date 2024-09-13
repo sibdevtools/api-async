@@ -1,4 +1,4 @@
-package com.github.simple_mocks.async.api.entity;
+package com.github.simplemocks.async.api.entity;
 
 import lombok.Builder;
 

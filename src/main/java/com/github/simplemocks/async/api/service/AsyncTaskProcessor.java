@@ -1,7 +1,7 @@
-package com.github.simple_mocks.async.api.service;
+package com.github.simplemocks.async.api.service;
 
-import com.github.simple_mocks.async.api.entity.AsyncTask;
-import com.github.simple_mocks.async.api.rs.AsyncTaskProcessingResult;
+import com.github.simplemocks.async.api.entity.AsyncTask;
+import com.github.simplemocks.async.api.rs.AsyncTaskProcessingResult;
 import jakarta.annotation.Nonnull;
 
 import java.time.Duration;

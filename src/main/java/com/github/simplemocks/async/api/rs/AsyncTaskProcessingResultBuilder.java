@@ -1,4 +1,4 @@
-package com.github.simple_mocks.async.api.rs;
+package com.github.simplemocks.async.api.rs;
 
 import jakarta.annotation.Nonnull;
 import lombok.AccessLevel;
