@@ -1,6 +1,7 @@
 package com.github.simplemocks.async.api.service;
 
 import com.github.simplemocks.async.api.rq.CreateAsyncTaskRq;
+import com.github.simplemocks.async.api.rs.CreateAsyncTaskRs;
 import jakarta.annotation.Nonnull;
 
 /**
@@ -18,6 +19,6 @@ public interface AsyncTaskService {
      * @return create async task response
      */
     @Nonnull
-    CreateAsyncTaskRq registerTask(@Nonnull CreateAsyncTaskRq rq);
+    CreateAsyncTaskRs registerTask(@Nonnull CreateAsyncTaskRq rq);
 
 }
