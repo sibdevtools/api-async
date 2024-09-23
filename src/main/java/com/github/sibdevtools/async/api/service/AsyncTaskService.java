@@ -1,7 +1,7 @@
-package com.github.simplemocks.async.api.service;
+package com.github.sibdevtools.async.api.service;
 
-import com.github.simplemocks.async.api.rq.CreateAsyncTaskRq;
-import com.github.simplemocks.async.api.rs.CreateAsyncTaskRs;
+import com.github.sibdevtools.async.api.rq.CreateAsyncTaskRq;
+import com.github.sibdevtools.async.api.rs.CreateAsyncTaskRs;
 import jakarta.annotation.Nonnull;
 
 /**

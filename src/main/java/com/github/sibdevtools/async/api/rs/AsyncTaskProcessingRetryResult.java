@@ -1,4 +1,4 @@
-package com.github.simplemocks.async.api.rs;
+package com.github.sibdevtools.async.api.rs;
 
 import java.time.ZonedDateTime;
 

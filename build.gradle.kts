@@ -29,7 +29,7 @@ dependencies {
 
     implementation("jakarta.annotation:jakarta.annotation-api:${project.property("lib_annotation_api_version")}")
 
-    implementation("com.github.simple-mocks:api-common:${project.property("lib_api_common_version")}")
+    implementation("com.github.sibdevtools:api-common:${project.property("lib_api_common_version")}")
 
 }
 
@@ -76,7 +76,7 @@ publishing {
             from(components["java"])
             pom {
                 packaging = "jar"
-                url = "https://github.com/simple-mocks/api-async"
+                url = "https://github.com/sibdevtools/api-async"
 
                 licenses {
                     license {
@@ -86,9 +86,9 @@ publishing {
                 }
 
                 scm {
-                    connection.set("scm:https://github.com/simple-mocks/api-async.git")
-                    developerConnection.set("scm:git:ssh://github.com/simple-mocks")
-                    url.set("https://github.com/simple-mocks/api-async")
+                    connection.set("scm:https://github.com/sibdevtools/api-async.git")
+                    developerConnection.set("scm:git:ssh://github.com/sibdevtools")
+                    url.set("https://github.com/sibdevtools/api-async")
                 }
 
                 developers {

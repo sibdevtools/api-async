@@ -1,4 +1,4 @@
-package com.github.simplemocks.async.api.service;
+package com.github.sibdevtools.async.api.service;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

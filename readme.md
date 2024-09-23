@@ -1,4 +1,4 @@
-# Simple Mock - Async Tasks Service API
+# SibDevTools - Async Tasks Service API
 
 ## To build
 

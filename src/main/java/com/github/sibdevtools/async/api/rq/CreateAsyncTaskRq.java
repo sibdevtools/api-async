@@ -1,4 +1,4 @@
-package com.github.simplemocks.async.api.rq;
+package com.github.sibdevtools.async.api.rq;
 
 import lombok.Builder;
 
